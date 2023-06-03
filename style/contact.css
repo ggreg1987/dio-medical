@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+}
+
+.header, .main {
+    display: flex;  
+    justify-content: space-between;
+    font-size: 25px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu , p {
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    color: #FFF;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #FFF;
+   color: #0000FF;
+}
+
+.menu li {
+    background-color: #0000FF;
+    list-style: none;
+    display: inline-block;
+}
+
+img , .menu li , .login input {
+    border-radius: 10px;
+}
+
+.main {
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
