@@ -4,7 +4,10 @@ body {
 }
 
 .header {
-    display: flex;
+    display: flex;  
+   justify-content: space-between;
+   font-size: 20px;
+   
 }
 
 .itens {
@@ -34,5 +37,8 @@ body {
     display: inline-block;
 }
 
+img , .menu li , .login input {
+    border-radius: 10px;
+}
 
 
