@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+}
+
+.itens {
+    display: inline-block;
+}
+
+
+.menu {
+    
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    color: #FFF;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+   
+}
+
+.menu a:hover {
+    background-color: #FFF;
+   color: #0000FF;
+}
+
+.menu li {
+    background-color: #0000FF;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+
+
