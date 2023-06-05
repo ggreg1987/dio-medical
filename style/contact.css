@@ -58,3 +58,12 @@ img , .menu li , .login input {
 .banner img {
     box-shadow: 10px 10px  10px;
 }
+
+.main table {
+    font-size: 35px;
+    text-align: center;
+}
+
+.main table thead{
+    font-weight: bold;
+}
