@@ -46,3 +46,15 @@ img , .menu li , .login input {
     margin-right: auto;
 }
 
+.login input, .login button {
+    font-size: 20px;
+}
+
+.login button {
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.banner img {
+    box-shadow: 10px 10px  10px;
+}
